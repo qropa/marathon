@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         AHC Output File Reader
-// @namespace    https://github.com/qropa/marathon/ahc
+// @namespace    https://github.com/qropa/marathon
 // @version      0.1
 // @description  AHCのビジュアライザに出力結果を自動で貼り付けます。
 // @author       ssaattoo
