@@ -6,7 +6,7 @@
 ## インストール
 Tampermonkeyのようなユーザースクリプトマネージャーをインストールします。  
 AHC_Output_File_Reader.jsをダウンロードします。  
-ユーザースクリプトマネージャーにAHC_Output_File_Reader.user.jsをインストールします。  
+ユーザースクリプトマネージャーにAHC_Output_File_Reader.jsをインストールします。  
 ## 使い方
 AtCoder Heuristic ContestのWeb版ビジュアライザにアクセスします。  
 Outputテキストボックスの上にある「Select Directory」ボタンをクリックします。  
